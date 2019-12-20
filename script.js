@@ -83,7 +83,7 @@ function click(elem) {
   document.getElementById('download-btn').addEventListener('click', downloadPic, false);
   
   var samplePreloader = new Image();
-  samplePreloader.src = 'shahbaz.jpg';
+  samplePreloader.src = 'indiarejectscaa.png';
   samplePreloader.addEventListener('load', function() {
     var canvas = document.getElementById('canvas');
     var ctx = canvas.getContext('2d');
