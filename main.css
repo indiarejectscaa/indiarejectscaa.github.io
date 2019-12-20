@@ -1,0 +1,15 @@
+  .footer {
+    padding: 10px 0;
+    background-color: #f5f5f5;
+    font-size: 12px;
+   }
+   .hidden {
+     display: none;
+   }
+   #download-btn {
+     display: none;
+   }
+   .push {
+     height: 1em;
+   }
+   
