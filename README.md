@@ -1,2 +1,0 @@
-# indiarejectscaa
-#IndiaRejectsCAA
